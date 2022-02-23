@@ -32,7 +32,7 @@ $ Rscript compile_report.r
 ```
 
 ## Authors
-- [BOCAGE Arthur](https://github.com/TurluTwoD)
+- [BOCAGE Arthur](https://github.com/Turlututur)
 - [PIERRE Corentin](https://github.com/coco-ia)
 - [PIGNARD Alexandre](https://github.com/Myrani)
 - [LETELLIER Guillaume](https://github.com/Guigui14460)
